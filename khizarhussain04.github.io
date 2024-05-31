@@ -1,1 +1,0 @@
-Tittel = HELLO WORLD
